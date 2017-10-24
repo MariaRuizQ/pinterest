@@ -1,0 +1,44 @@
+div{
+  display: inline-block;
+  margin-left: 50px;
+}
+
+p{
+  display: inline-block;
+}
+
+.Barra{
+  background-color: gray;
+  width: 900px;
+}
+
+li{
+  list-style: none;
+  display: inline-block;
+  margin: auto;
+}
+
+.bloques{
+  float: left;
+}
+
+img{
+  width: 300px;
+  height: 600px;
+  max-width: 100%;
+  border-radius: 10px;
+}
+
+button{
+  background-color: gray;
+  border: 0;
+  padding: 20px;
+  border-radius: 10px;
+}
+
+button:hover{
+  background-color: pink;
+  border: 0;
+  padding: 30px;
+  border-radius: 10px;
+}
