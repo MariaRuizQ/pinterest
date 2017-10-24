@@ -5,11 +5,47 @@ div{
 
 p{
   display: inline-block;
+  float: right;
+}
+
+.logoPinterest{
+  color: red;
+  font-size: 40px;
 }
 
 .Barra{
+  padding: 2px;
   background-color: gray;
   width: 900px;
+  font-size: 20px;
+  border-radius: 10px;
+}
+
+.icon-cross{
+  float: right;
+}
+
+.icon-circle-down{
+  float: right;
+}
+
+.iconosDerecha{
+  color: silver;
+  font-size: 20px;
+  margin-right: 40px;
+  float: right;
+}
+
+.icon-user:hover{
+  color: red;
+}
+
+.icon-menu:hover{
+  color: red;
+}
+
+.icon-bubble:hover{
+    color: red;
 }
 
 li{
@@ -34,6 +70,7 @@ button{
   border: 0;
   padding: 20px;
   border-radius: 10px;
+
 }
 
 button:hover{
